@@ -13523,6 +13523,7 @@
         "description": "同步bookxnote中的读书笔记",
         "repo": "CodeListening/obsidian-bookxnote"
     },
+    {
     	"id": "pdf2img",
 	"name": "PDF2Image",
     	"author": "RasmusAChr",
